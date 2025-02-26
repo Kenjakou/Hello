@@ -1,1 +1,8 @@
-hello!
+What challenges did you face during this activity
+-For me it was the linking of my email to the local repository to github
+
+Which Git command was the most confusing?
+-For me it was the git remote add origin 
+
+How can version control help in real-world software development?
+-Developers may keep track of code changes via version control, which facilitates reverting to earlier iterations as necessary.
